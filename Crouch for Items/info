@@ -1,0 +1,3 @@
+This mod gives the player a random item every time the player crouches.
+
+It uses the random module to decide what to give the player from a fixed array of items
